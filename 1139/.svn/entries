@@ -1,14 +1,14 @@
 10
 
 dir
-14
+20
 svn+ssh://linux.student.cs.uwaterloo.ca/u/cs246/pubrepo/1139
 svn+ssh://linux.student.cs.uwaterloo.ca/u/cs246/pubrepo/1139
 
 
 
-2013-09-13T23:12:06.696097Z
-14
+2013-09-21T01:16:50.592036Z
+20
 cs246
 
 
@@ -33,6 +33,9 @@ a1
 dir
 
 lectures
+dir
+
+tutorials
 dir
 
 linuxCommands.pdf

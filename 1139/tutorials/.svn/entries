@@ -2,13 +2,13 @@
 
 dir
 20
-svn+ssh://linux.student.cs.uwaterloo.ca/u/cs246/pubrepo/1139/lectures
+svn+ssh://linux.student.cs.uwaterloo.ca/u/cs246/pubrepo/1139/tutorials
 svn+ssh://linux.student.cs.uwaterloo.ca/u/cs246/pubrepo/1139
 
 
 
-2013-09-17T15:20:06.095981Z
-16
+2013-09-19T15:01:40.797448Z
+17
 cs246
 
 
@@ -26,15 +26,6 @@ cs246
 
 d79e5567-f325-4c8e-a63b-5b6ed583b3dd
 
-tools
-dir
-
-se
-dir
-
-shell
-dir
-
-c++
+01
 dir
 

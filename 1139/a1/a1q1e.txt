@@ -1,0 +1,1 @@
+grep -vc cs246 myfile.txt
