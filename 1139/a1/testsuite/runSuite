@@ -1,0 +1,38 @@
+#!/bin/bash
+
+#correct number of arguments
+if [ ! ${#} -eq 2 ]; then
+    echo "Number of arguments must be 2. ("${#} "given)" >&2
+    exit 1
+fi
+
+# go through each file in test files
+for file in $(cat ${1}); do
+
+    #check if input file exists
+    if [ ! -f $file.in ]; then
+	echo "Input file "$file.in" does not exist." >&2
+	exit 1
+    fi
+    #check if output file exists
+    if [ ! -f $file.out ]; then
+	echo "Output file "$file.in" does not exist." >&2
+	exit 1
+    fi
+
+    test_result=$(${2} < $file.in)
+    correct_result=$(cat $file.out)
+    
+    if [ ! "$test_result" = "$correct_result" ] ; then
+	echo "Test failed:"
+	echo "Input:"
+	cat $file.in
+	echo "Expected:"
+	cat $file.out
+	echo "Actual:"
+	echo "$test_result"
+    fi
+    
+done
+
+#echo cat ${1}
