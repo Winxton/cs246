@@ -1,14 +1,14 @@
 10
 
 dir
-20
+26
 svn+ssh://linux.student.cs.uwaterloo.ca/u/cs246/pubrepo/1139/lectures/c++
 svn+ssh://linux.student.cs.uwaterloo.ca/u/cs246/pubrepo/1139
 
 
 
-2013-08-27T22:14:54.397109Z
-2
+2013-09-27T23:03:30.935162Z
+25
 cs246
 
 
@@ -25,4 +25,10 @@ cs246
 
 
 d79e5567-f325-4c8e-a63b-5b6ed583b3dd
+
+io
+dir
+
+intro
+dir
 

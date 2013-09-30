@@ -1,0 +1,13 @@
+#!/bin/bash
+
+echo "starting suite ..."
+
+$correct_output="cat ${1}"
+
+echo $correct_output
+"""
+for $testfile in $correct_output; do
+    echo $testfile
+done
+"""
+#${2}
