@@ -1,1 +1,1 @@
-find -maxdepth 1 -perm -gou=r -ls
+ls -l | grep '^.r..r..r..'
