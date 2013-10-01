@@ -1,4 +1,11 @@
-normaltest
 allnegative
+morenegatives
 allsame
+leftside
+middle
+rightside
 onenumber
+takeall
+edges
+multiple
+largegap
