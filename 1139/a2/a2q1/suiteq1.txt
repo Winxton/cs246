@@ -1,2 +1,4 @@
 normaltest
 allnegative
+allsame
+onenumber
