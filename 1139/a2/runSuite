@@ -1,0 +1,50 @@
+#!/bin/bash
+
+#correct number of arguments
+if [ ! ${#} -eq 2 ]; then
+    echo "Number of arguments must be 2. ("${#} "given)" >&2
+    exit 1
+fi
+
+#the program exists
+if [ ! -r ${2} ]; then
+    echo "The program does not exist or is unreadable." >&2
+    exit 1
+fi
+
+test_files=$(cat ${1})
+
+#check each of the files
+for file in $test_files; do
+
+    #check if input file exists
+    if [ ! -r $file.in ]; then
+	echo "Input file "$file.in" does not exist or is unreadable." >&2
+	exit 1
+    fi
+    #check if output file exists
+    if [ ! -r $file.out ]; then
+	echo "Output file "$file.in" does not exist or is unreadable." >&2
+	exit 1
+    fi
+done
+
+# test suite
+# go through each file in test files
+for file in $test_files; do
+
+    test_result=$(${2} < $file.in)
+    correct_result=$(cat $file.out)
+    
+    if [ ! "$test_result" = "$correct_result" ] ; then
+	echo "Test failed:"
+	echo "Input:"
+	cat $file.in
+	echo "Expected:"
+	cat $file.out
+	echo "Actual:"
+	echo "$test_result"
+    fi
+    
+done
+
