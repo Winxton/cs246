@@ -1,3 +1,7 @@
 simpletest
 onecandidate
 largename
+twodigit
+novotes
+whitespace
+nocandidates
