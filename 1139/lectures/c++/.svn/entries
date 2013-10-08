@@ -1,14 +1,14 @@
 10
 
 dir
-27
+31
 svn+ssh://linux.student.cs.uwaterloo.ca/u/cs246/pubrepo/1139/lectures/c++
 svn+ssh://linux.student.cs.uwaterloo.ca/u/cs246/pubrepo/1139
 
 
 
-2013-10-01T16:57:00.521117Z
-27
+2013-10-03T02:14:30.156365Z
+31
 cs246
 
 
@@ -26,6 +26,18 @@ cs246
 
 d79e5567-f325-4c8e-a63b-5b6ed583b3dd
 
+references
+dir
+
+pointers
+dir
+
+separate
+dir
+
+preprocess
+dir
+
 io
 dir
 
@@ -33,5 +45,8 @@ functions
 dir
 
 intro
+dir
+
+operators
 dir
 

@@ -1,14 +1,14 @@
 10
 
 dir
-27
+31
 svn+ssh://linux.student.cs.uwaterloo.ca/u/cs246/pubrepo/1139/tutorials/03
 svn+ssh://linux.student.cs.uwaterloo.ca/u/cs246/pubrepo/1139
 
 
 
-2013-09-27T18:57:00.390108Z
-24
+2013-10-02T22:09:20.711834Z
+29
 cs246
 
 
@@ -26,16 +26,50 @@ cs246
 
 d79e5567-f325-4c8e-a63b-5b6ed583b3dd
 
+divisorExample.cpp
+file
+
+
+
+
+2013-10-08T13:14:26.464615Z
+982bb1a1ede4c314cc68cdfd8d12f673
+2013-10-02T22:09:20.711834Z
+29
+cs246
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1942
+
 tutorial3.pdf
 file
 
 
 
 
-2013-09-30T23:56:53.241690Z
-c515bf4072fd58c1aa60954e30a4d87f
-2013-09-27T18:57:00.390108Z
-24
+2013-10-08T13:14:26.476605Z
+b253b44d3ae9ad89e7a8b0a11a399b7d
+2013-10-02T22:09:20.711834Z
+29
 cs246
 has-props
 
@@ -58,5 +92,39 @@ has-props
 
 
 
-166319
+228690
+
+basicexample.cpp
+file
+
+
+
+
+2013-10-08T13:14:26.467631Z
+54a1d84b01f37b59de7ff4392e334814
+2013-10-02T22:09:20.711834Z
+29
+cs246
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+222
 
