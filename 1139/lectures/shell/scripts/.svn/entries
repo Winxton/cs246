@@ -1,7 +1,7 @@
 10
 
 dir
-27
+35
 svn+ssh://linux.student.cs.uwaterloo.ca/u/cs246/pubrepo/1139/lectures/shell/scripts
 svn+ssh://linux.student.cs.uwaterloo.ca/u/cs246/pubrepo/1139
 
@@ -60,40 +60,6 @@ has-props
 
 28
 
-wcall-first
-file
-
-
-
-
-2013-09-23T22:32:30.929826Z
-925ebf68527a12094e0e1c08100527a0
-2013-09-17T04:11:29.556457Z
-15
-cs246
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-107
-
 payday
 file
 
@@ -128,14 +94,14 @@ has-props
 
 491
 
-count
+wcall-first
 file
 
 
 
 
-2013-09-23T22:32:30.947825Z
-aaa85e04016019a2691ccada56940b40
+2013-09-23T22:32:30.929826Z
+925ebf68527a12094e0e1c08100527a0
 2013-09-17T04:11:29.556457Z
 15
 cs246
@@ -160,7 +126,7 @@ has-props
 
 
 
-288
+107
 
 compile
 file
@@ -195,6 +161,40 @@ has-props
 
 
 294
+
+count
+file
+
+
+
+
+2013-09-23T22:32:30.947825Z
+aaa85e04016019a2691ccada56940b40
+2013-09-17T04:11:29.556457Z
+15
+cs246
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+288
 
 first-script
 file
