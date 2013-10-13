@@ -5,3 +5,4 @@ twodigit
 novotes
 whitespace
 nocandidates
+nocandidatesorvotes

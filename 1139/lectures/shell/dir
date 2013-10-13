@@ -1,0 +1,18 @@
+#!/bin/bash
+fName=$1
+
+for f in $(ls $fName)
+do
+echo $f
+done
+
+#for f in $fName
+#chmod 100 $fName
+
+#do
+#if [$f == *x*x*]
+#then
+#chmod 100 $f
+#fi
+
+#done
