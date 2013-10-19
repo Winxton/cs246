@@ -1,0 +1,13 @@
+r a hello
+r b world
+s c a b
+wc
+lc
+ec
+t c a 123
+wc
+lc
+ea
+eb
+ec
+q

@@ -1,0 +1,6 @@
+game 10 5 a1.txt b1.txt
+game 7 4 a1.txt b1.txt
+arst !!
+game 10 5 a1.txt b2.txt
+game 10 5 a1.txt b1.txt
+quit
