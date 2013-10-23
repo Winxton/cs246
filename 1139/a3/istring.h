@@ -9,7 +9,7 @@ struct iString{
   iString(const char *);
   iString(const iString&);
   iString &operator=(const iString&);
-  ~String();
+  ~iString();
 };
 
 // Add other declarations here:

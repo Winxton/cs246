@@ -7,7 +7,7 @@ int main () {
 
    Node m(4, NULL);
 
-   n = n;
+   m = n;
 
    cout << n << endl;
    cout << m << endl;

@@ -5,14 +5,18 @@
 struct Node {
   int data;
   Node *next;
-  Node(int data, Node *next);
-  Node(const Node &n);
-  explicit Node(int n);
+  Node(int data, Node *next): data(data), next(next) {}
+  Node(const Node &n):
+    data(n.data),
+    next(n.next==NULL ? NULL : new Node(*n.next)) {}
 
-  ~Node();
+  explicit Node(int n): data(n), next(NULL) {}
+
+  ~Node() {
+    std::cout << "Destructor called" << std::endl;
+    delete next;
+  }
 };
 
 std::ostream &operator<<(std::ostream &out, const Node &n);
-
 #endif
-
