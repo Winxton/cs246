@@ -1,7 +1,0 @@
-a,b,c
-a is parent of b
-b is parent of c
-c is parent of d
-d is parent of e
-e is parent of f
-f has no children

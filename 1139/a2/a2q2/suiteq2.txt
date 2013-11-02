@@ -1,9 +1,0 @@
-onecoin
-testsimple
-greedydoesnotwork
-impossible
-unsortedinput
-smallerthanallcoins
-verylarge
-mixedcoins
-barelypossiblebutnot

@@ -1,8 +1,0 @@
-simpletest
-testconcat
-testempty
-multiply
-empties
-create_copy_equal
-bad
-specialchar

@@ -1,8 +1,0 @@
-simpletest
-doubles
-doublestwice
-add-baddelimiter-negative
-inittodouble
-several
-reset
-noneinit
