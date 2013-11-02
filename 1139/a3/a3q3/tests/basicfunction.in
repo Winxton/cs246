@@ -1,0 +1,11 @@
+! alice
+! bob
+? bob
++ bob eve
++ eve fred
+? eve
+? alice
+p
+? winston
+* eve
+p

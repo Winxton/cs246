@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 10
 
 dir
@@ -38,3 +39,45 @@ dir
 example3
 dir
 
+=======
+10
+
+dir
+35
+svn+ssh://linux.student.cs.uwaterloo.ca/u/cs246/pubrepo/1139/lectures/c++/separate
+svn+ssh://linux.student.cs.uwaterloo.ca/u/cs246/pubrepo/1139
+
+
+
+2013-10-10T13:58:01.727497Z
+33
+cs246
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d79e5567-f325-4c8e-a63b-5b6ed583b3dd
+
+example4
+dir
+
+example1
+dir
+
+example2
+dir
+
+example3
+dir
+
+>>>>>>> Stashed changes

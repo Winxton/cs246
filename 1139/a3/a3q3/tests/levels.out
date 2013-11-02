@@ -1,0 +1,10 @@
+albert is the parent of bob
+bob is the parent of alice,poop,cool
+alice is the parent of jane
+poop has no children
+cool has no children
+Not found
+albert,bob,alice,jane
+albert is the parent of bob
+bob is the parent of alice
+alice is the parent of jane

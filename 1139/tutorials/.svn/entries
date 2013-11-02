@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 10
 
 dir
@@ -75,3 +76,45 @@ has-props
 
 156178
 
+=======
+10
+
+dir
+35
+svn+ssh://linux.student.cs.uwaterloo.ca/u/cs246/pubrepo/1139/tutorials
+svn+ssh://linux.student.cs.uwaterloo.ca/u/cs246/pubrepo/1139
+
+
+
+2013-10-09T21:02:41.034906Z
+32
+cs246
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d79e5567-f325-4c8e-a63b-5b6ed583b3dd
+
+01
+dir
+
+02
+dir
+
+03
+dir
+
+04
+dir
+
+>>>>>>> Stashed changes

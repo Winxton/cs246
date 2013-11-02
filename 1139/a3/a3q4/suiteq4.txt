@@ -8,3 +8,5 @@ filecommand
 nogame
 file_and_stdin
 samefile
+big
+nothing
