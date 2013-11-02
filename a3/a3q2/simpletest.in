@@ -1,0 +1,10 @@
+r a hello123
+wa
+i b a
+wb
+n b newbstring
+wb
+l b
+= a b
+wa
+q

@@ -1,0 +1,29 @@
+a is parent of c,b
+c is parent of d,e,f
+d has no children
+e is parent of i,h
+i has no children
+h has no children
+f has no children
+b is parent of g
+g has no children
+a,c,e,i
+a is parent of c,b
+c is parent of e,f,d
+e is parent of i,h
+i has no children
+h has no children
+f has no children
+d has no children
+b is parent of g
+g has no children
+Not found
+Not found
+Not found
+Not found
+Failed
+h is parent of a
+a is parent of b
+b is parent of g,i
+g has no children
+i has no children

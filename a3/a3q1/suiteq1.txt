@@ -1,0 +1,5 @@
+normal
+nomove
+turn
+repeated
+complex

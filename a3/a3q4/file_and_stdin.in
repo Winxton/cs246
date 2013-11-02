@@ -1,0 +1,10 @@
+game 10 5 a1.txt stdin
+	0 
+	5
+game 7 4 stdin b1.txt
+	3
+game 5 3 stdin stdin
+	10
+	2
+game 150 150 b3.txt a1.txt
+quit

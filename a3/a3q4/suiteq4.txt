@@ -1,0 +1,12 @@
+basicgame
+multiplegames
+takeover
+takeless
+morethanreq
+oneone
+filecommand
+nogame
+file_and_stdin
+samefile
+big
+nothing
