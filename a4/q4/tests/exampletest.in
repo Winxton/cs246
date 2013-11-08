@@ -1,0 +1,3 @@
+w_Hello_World.txt translate e 3 swapcase doublevowels doublevowels
+w_Hello_World.txt skipword translate o 0
+

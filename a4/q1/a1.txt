@@ -1,0 +1,8 @@
+a) The order for the inner and outer loops are different. "arrays" goes in the order of rows first, then columns, wheras "arrays2" is the other way around.
+
+b) arrays: 0.359s
+   arrays2: 1.244s
+
+c) The storage location of rows in a 2d array are within close storage locations (spatial locality). A cache uses this locality by storing recently referenced data and its neighbors 
+(in consequtive address blocks), so when the loop is going through elements in the same row, 
+neighboring elements in that row are brought into the cache, hence allowing faster traversal.

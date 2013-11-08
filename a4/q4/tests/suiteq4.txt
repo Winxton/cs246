@@ -1,0 +1,6 @@
+exampletest
+empty
+doublevowels
+swapcase
+translate
+skipword

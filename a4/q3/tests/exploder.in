@@ -1,0 +1,22 @@
+new 11
+init
+2 3
+3 3
+4 3
+5 3 
+6 3
+2 7
+3 7
+4 7
+5 7 
+6 7
+2 5
+6 5
+-1 -1
+print
+steps 2
+print
+step
+print
+step
+print
