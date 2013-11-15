@@ -1,6 +1,0 @@
-#!/bin/bash
-
-while read line
-do
-  echo "$line" aha
-done < "${1:-/proc/${$}/fd/0}"

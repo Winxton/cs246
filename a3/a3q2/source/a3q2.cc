@@ -1,4 +1,4 @@
-#include "iString.h"
+#include "istring.h"
 #include <iostream>
 #include <string>
 using namespace std;
@@ -26,6 +26,21 @@ using namespace std;
 */
 int main() {  
 
+	iString a("hello");
+	a.print();
+
+	iString b(a);
+	b.print();
+
+	iString c;
+	c.print();
+
+	c = b;
+	c.print();
+	c = a;
+	c.print();
+
+	/*
   bool done = false;
   string temp;
   iString *a[4];
@@ -103,4 +118,5 @@ int main() {
         done = true;
     }
   }
+  */
 }
