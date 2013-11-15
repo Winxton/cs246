@@ -7,3 +7,5 @@ abs
 alloperators
 overflow
 long
+absneg
+binary_neg

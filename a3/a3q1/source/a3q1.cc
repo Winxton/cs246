@@ -9,6 +9,7 @@ int main() {
 	Drone d;
 	Position p;
 	char c;
+
 	while (cin >> c) {
 		switch (c) {
 		case 'f':
